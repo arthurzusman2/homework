@@ -1,0 +1,142 @@
+.h{
+background-color: #333;
+
+
+}
+  
+ body {
+    font-size: 24px;
+    line-height: 32px;
+    color: #333;
+  }
+  
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background:blue;
+  }
+
+  #nav {padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #FFA500;
+    
+  }
+
+  
+  section {
+    float: left;
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #FFA500;
+  }
+  
+  #left {
+    padding: 61px;
+    width: 44.3%;
+    color: #fff;
+    background:black;
+  }
+  
+  #middle {
+
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+    background: #9E1212;
+  }
+  
+  #right {
+    float: right;
+    width: 35.4%;
+    color: #fff;
+    background: #30948D;
+  }
+  
+  #full {
+    width: 33%;
+    overflow: auto;
+    clear: both;
+    color: #fff;
+    background: #394549;
+  }
+  
+ 
+  
+  aside {
+    float: right;
+    width: 33%;
+    height: 200px;
+    padding: 20px;
+    margin-left: 30px;
+    text-decoration-color: white;
+    background: #a6b747;
+    border: 1px solid #eee;
+  }
+  
+  footer {
+    padding: 20px;
+    clear: both;
+    background: #FFA500;
+  }
+
+  p{
+    width: 50%;
+    overflow: auto;
+    clear: both;
+    color: #fff;
+    background: #e107e9;
+    height: 50%;
+
+
+  }
+
+  .h{
+background-color: white;
+
+
+
+  }
+
+  h1 {  
+    font-size: 20px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: normal;
+    line-height: 1;
+    text-align: center;
+    margin: 0px 50px 0 50px;
+    padding-top: -60px;
+    float: left;
+  
+  }
+  
+  
+    h2{  
+    font-size: 20px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: normal;
+    line-height: 1;
+   text-align: center;
+    margin: 0px 50px 0 50px;
+    padding-top: 0px; 
+    float: left;
+
+  
+   }
+  
+    h3{  
+    font-size: 20px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: normal;
+    line-height: 1;
+    text-align: center;
+    margin: 0px 0 0;
+    padding-top: 0px; 
+    padding-bottom: 0px;
+    float: left;
+   }
+  
